@@ -1,0 +1,12 @@
+{
+  "tcpport": 6666,
+  "udpport": 3333,
+  "multicast": "239.255.32.32",
+  "mcastport": "4444",
+  "regport": 7777,
+  "rmiobjname": "REGISTER-SERVER",
+  "nworker": 5,
+  "rewardtimer": 16000,
+  "authorpercentage": 70,
+  "backuptimer": 15000
+}
